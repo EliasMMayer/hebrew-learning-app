@@ -1,3 +1,5 @@
+"use client";
+
 import HebrewPuzzles from '@/components/hebrew-puzzles'
 
 export default function Home() {
