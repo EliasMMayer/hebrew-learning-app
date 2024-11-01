@@ -1,10 +1,6 @@
-import './globals.css'
-import type { Metadata } from 'next'
+"use client";  // MUST BE FIRST LINE, BEFORE ANY IMPORTS
 
-export const metadata: Metadata = {
-  title: 'Hebrew Learning App',
-  description: 'Practice Hebrew verbs with interactive puzzles',
-}
+import './globals.css'
 
 export default function RootLayout({
   children,
