@@ -1,0 +1,164 @@
+{
+  "want": {
+    "english": {
+      "present": {
+        "ani": "want",
+        "ata": "want",
+        "at": "want",
+        "hu": "wants",
+        "hi": "wants",
+        "anahnu": "want",
+        "atem": "want",
+        "aten": "want",
+        "hem": "want",
+        "hen": "want"
+      },
+      "past": {
+        "ani": "wanted",
+        "ata": "wanted",
+        "at": "wanted",
+        "hu": "wanted",
+        "hi": "wanted",
+        "anahnu": "wanted",
+        "atem": "wanted",
+        "aten": "wanted",
+        "hem": "wanted",
+        "hen": "wanted"
+      }
+    },
+    "hebrew": {
+      "present": {
+        "ani": "רוצה",
+        "ata": "רוצה",
+        "at": "רוצה",
+        "hu": "רוצה",
+        "hi": "רוצה",
+        "anahnu": "רוצים",
+        "atem": "רוצים",
+        "aten": "רוצות",
+        "hem": "רוצים",
+        "hen": "רוצות"
+      },
+      "past": {
+        "ani": "רציתי",
+        "ata": "רצית",
+        "at": "רצית",
+        "hu": "רצה",
+        "hi": "רצתה",
+        "anahnu": "רצינו",
+        "atem": "רציתם",
+        "aten": "רציתן",
+        "hem": "רצו",
+        "hen": "רצו"
+      }
+    }
+  },
+  "eat": {
+    "english": {
+      "present": {
+        "ani": "eat",
+        "ata": "eat",
+        "at": "eat",
+        "hu": "eats",
+        "hi": "eats",
+        "anahnu": "eat",
+        "atem": "eat",
+        "aten": "eat",
+        "hem": "eat",
+        "hen": "eat"
+      },
+      "past": {
+        "ani": "ate",
+        "ata": "ate",
+        "at": "ate",
+        "hu": "ate",
+        "hi": "ate",
+        "anahnu": "ate",
+        "atem": "ate",
+        "aten": "ate",
+        "hem": "ate",
+        "hen": "ate"
+      }
+    },
+    "hebrew": {
+      "present": {
+        "ani": "אוכל",
+        "ata": "אוכל",
+        "at": "אוכלת",
+        "hu": "אוכל",
+        "hi": "אוכלת",
+        "anahnu": "אוכלים",
+        "atem": "אוכלים",
+        "aten": "אוכלות",
+        "hem": "אוכלים",
+        "hen": "אוכלות"
+      },
+      "past": {
+        "ani": "אכלתי",
+        "ata": "אכלת",
+        "at": "אכלת",
+        "hu": "אכל",
+        "hi": "אכלה",
+        "anahnu": "אכלנו",
+        "atem": "אכלתם",
+        "aten": "אכלתן",
+        "hem": "אכלו",
+        "hen": "אכלו"
+      }
+    }
+  },
+  "learn": {
+    "english": {
+      "present": {
+        "ani": "learn",
+        "ata": "learn",
+        "at": "learn",
+        "hu": "learns",
+        "hi": "learns",
+        "anahnu": "learn",
+        "atem": "learn",
+        "aten": "learn",
+        "hem": "learn",
+        "hen": "learn"
+      },
+      "past": {
+        "ani": "learned",
+        "ata": "learned",
+        "at": "learned",
+        "hu": "learned",
+        "hi": "learned",
+        "anahnu": "learned",
+        "atem": "learned",
+        "aten": "learned",
+        "hem": "learned",
+        "hen": "learned"
+      }
+    },
+    "hebrew": {
+      "present": {
+        "ani": "לומד",
+        "ata": "לומד",
+        "at": "לומדת",
+        "hu": "לומד",
+        "hi": "לומדת",
+        "anahnu": "לומדים",
+        "atem": "לומדים",
+        "aten": "לומדות",
+        "hem": "לומדים",
+        "hen": "לומדות"
+      },
+      "past": {
+        "ani": "למדתי",
+        "ata": "למדת",
+        "at": "למדת",
+        "hu": "למד",
+        "hi": "למדה",
+        "anahnu": "למדנו",
+        "atem": "למדתם",
+        "aten": "למדתן",
+        "hem": "למדו",
+        "hen": "למדו"
+      }
+    }
+  }
+}
