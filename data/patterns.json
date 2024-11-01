@@ -1,0 +1,18 @@
+{
+  "patterns": [
+    {
+      "id": "present-past",
+      "objects": {
+        "verb1": ["ice cream", "chocolate", "cake"],
+        "verb2": ["pizza"]
+      }
+    },
+    {
+      "id": "past-past",
+      "objects": {
+        "verb1": ["Hebrew"],
+        "verb2": ["lunch", "dinner", "breakfast"]
+      }
+    }
+  ]
+}
