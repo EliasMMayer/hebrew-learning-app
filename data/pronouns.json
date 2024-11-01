@@ -1,0 +1,12 @@
+{
+  "ani": { "english": "I", "hebrew": "אני" },
+  "ata": { "english": "you", "hebrew": "אתה" },
+  "at": { "english": "you", "hebrew": "את" },
+  "hu": { "english": "he", "hebrew": "הוא" },
+  "hi": { "english": "she", "hebrew": "היא" },
+  "anahnu": { "english": "we", "hebrew": "אנחנו" },
+  "atem": { "english": "you (m.pl)", "hebrew": "אתם" },
+  "aten": { "english": "you (f.pl)", "hebrew": "אתן" },
+  "hem": { "english": "they", "hebrew": "הם" },
+  "hen": { "english": "they", "hebrew": "הן" }
+}
